@@ -13,7 +13,7 @@ const Header = () => {
         </h1>
         <p className="text-base sm:text-lg mb-1 font-medium text-blue-100">
           Prepared by: <span className="text-yellow-200">Abel Tadesse</span>,{" "}
-          <span className="text-yellow-200">Simreteab Sikora</span>,{" "}
+          <span className="text-yellow-200">Simreteab Mekbib</span>,{" "}
           <span className="text-yellow-200">Awol Alebe</span>
         </p>
         <p className="text-indigo-200 text-xs sm:text-base font-light">
