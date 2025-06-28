@@ -6,7 +6,7 @@ const Header = () => {
     <header className="bg-gradient-to-r from-blue-800 via-indigo-700 to-purple-700 text-white py-6 px-2 mb-8 shadow-lg">
       <div className="max-w-3xl mx-auto px-4">
         <h1 className="text-2xl sm:text-3xl font-bold mb-2 drop-shadow-md">
-          Emotion Classification Using CNNs:{" "}
+          Emotion Classification Using CNNs:
           <span className="text-yellow-300">
             The Mini-Xception Model in Action
           </span>
